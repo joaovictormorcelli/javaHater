@@ -2,7 +2,7 @@ public class ForEach {
     public static void main(String[] args) {
         String[] natchackra = {"Katon", "Doton", "Suiton", "Futon", "Raiton"};
         for (String natureza : natchackra){
-            System.out.println(natchackra);
+            System.out.println(natureza);
         }
 
         int[] numeros = {1, 2, 3, 4, 5};
